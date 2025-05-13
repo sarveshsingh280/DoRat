@@ -1,21 +1,3 @@
-<h1 align=center>DogeRat</h1>
-
-### DISCLAIMER⚠️
-- Modified verson of [DogeRat](https://github.com/shivaya-dav/DogeRat) by Shiva Yadav.  
-[https://github.com/shivaya-dav/DogeRat](https://github.com/shivaya-dav/DogeRat)
-
--------------------------
-
-![Logo](https://wigmur.com/dogs/logo.png)
-<p align="center">
-  <i>A multifunctional Telegram based Android RAT without port forwarding</i>
-</p>
-
-
-
-<h2 align="center">Panel Screenshot</h2>
-<p align="center">
-  <img src="https://wigmur.com/dogs/scr.jpg" alt="Logo" />
 </p>
 
 ## Features
@@ -55,15 +37,7 @@
 - ✨ Beautiful telegram bot interface
 - 🤖 Undetectable by antivirus
   <p align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
+ 
   </p>
 <h2>Requirements</h2>
 <ul>
@@ -71,10 +45,7 @@
   <li><span style="color: #2ECC40;">TERMUX</span></li>
   <li>For hosting server code, you can use some free services like:</li>
   <ul>
-    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
-    <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
-    <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
-    <li><a href="https://render.com/" style="color: #B10DC9;">render.com</a></li>
+ 
   </ul>
   <p align="center">
   <a href="https://shivaya-dav.github.io/dogeweb/">
